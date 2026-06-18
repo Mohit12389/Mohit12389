@@ -27,9 +27,10 @@ const mohit = {
 };
 ```
 
-- 🔭 Currently building full-stack apps with **Next.js, TypeScript & PostgreSQL**
-- 🌱 Expanding into **Python & ML** and **cross-platform mobile (Flutter)**
-- 💼 Backend experience: **Express.js, REST APIs, JWT auth, Supabase/Neon**
+- 🔭 Building full-stack apps with **Next.js, TypeScript & PostgreSQL**
+- 🤖 Integrating **AI/ML** into products — built a hybrid movie recommendation engine (SVD) and Gemini-powered features
+- 💼 Backend focus: **Express.js, REST APIs, JWT auth, Convex, Supabase/Neon**
+- 📱 Exploring **cross-platform mobile** with React Native & Flutter
 - 📫 Reach me below — always open to collaboration
 
 <!-- ========================= TECH STACK ========================= -->
@@ -54,7 +55,18 @@ const mohit = {
 ### Databases & Backend Services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Auth, AI & Services
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,7 +78,7 @@ const mohit = {
 <br>
 
 <!-- Clean icon row (alternative look). Edit the &i= list to change icons. -->
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,nodejs,express,nextjs,react,flutter,tailwind,postgres,supabase,fastapi,git,github,vercel,vscode&perline=9" alt="skill icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,nodejs,express,nextjs,react,flutter,tailwind,postgres,supabase,prisma,flask,fastapi,firebase,git,github,vercel,vscode&perline=10" alt="skill icons" />
 
 </div>
 
@@ -102,22 +114,31 @@ const mohit = {
 
 <div align="center">
 
+<a href="https://github.com/Mohit12389/PropelAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=PropelAI&theme=tokyonight&hide_border=true" alt="PropelAI" />
+</a>
+<a href="https://github.com/Mohit12389/billbuddy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=billbuddy&theme=tokyonight&hide_border=true" alt="billbuddy" />
+</a>
+<a href="https://github.com/Mohit12389/Fire-TV">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Fire-TV&theme=tokyonight&hide_border=true" alt="Fire-TV" />
+</a>
+<a href="https://github.com/Mohit12389/Bill-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Bill-Management-System&theme=tokyonight&hide_border=true" alt="Bill-Management-System" />
+</a>
 <a href="https://github.com/Mohit12389/portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
 </a>
-<!--
-  Add more repo cards by copying the block above and changing &repo=...
-  e.g. Anchal Caterers, Capstone Project Management System.
-  Use the EXACT repo name from your GitHub URL.
--->
 
 </div>
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Anchal Caterers — Bill & Expense Manager** | Billing and expense management tool for a catering business | Next.js · TypeScript · Tailwind · Neon · Clerk |
-| **Capstone Project Management System** | Backend for a multi-user project management platform | Express.js · PostgreSQL · JWT · React |
-| **Portfolio** | Personal developer portfolio website | Next.js · TypeScript · Tailwind |
+| **[PropelAI](https://github.com/Mohit12389/PropelAI)** · [🔗 live](https://propel-ai.vercel.app) | AI career-coach platform — weekly AI industry insights, resume & cover-letter builder with PDF export, and project-based interview quizzes | Next.js · Prisma · Neon · Clerk · Gemini · Inngest |
+| **[billbuddy](https://github.com/Mohit12389/billbuddy)** · [🔗 live](https://billbuddy-zeta.vercel.app) | Smart expense tracker with group bill-splitting, real-time sync, automated email reminders, monthly reports & AI spending insights | Next.js · Convex · Clerk · Inngest · Resend · Gemini |
+| **[Fire-TV](https://github.com/Mohit12389/Fire-TV)** | Fire TV clone with a **hybrid recommendation engine** (content-based + collaborative filtering via SVD) — Amazon HackOn 5.0 project | React · Vite · Python · Flask · scikit-learn · Firebase |
+| **[Bill-Management-System](https://github.com/Mohit12389/Bill-Management-System)** | MithaiBills — React Native (Expo) Android app for sweet shops: track bills, vendors & payments with pie/bar analytics | React Native · Expo · TypeScript · Express · Neon |
+| **[Portfolio](https://github.com/Mohit12389/portfolio)** | Personal developer portfolio website | Next.js · TypeScript · Tailwind |
 
 <!-- ========================= CONNECT ========================= -->
 ## 🤝 Connect With Me
