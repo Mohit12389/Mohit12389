@@ -21,7 +21,7 @@ const mohit = {
   role: "Backend Developer & Full-Stack Engineer",
   education: "B.Tech CSE @ VIT Bhopal University",
   currentFocus: ["Production-grade web apps", "Android/iOS with Flutter"],
-  stack: ["TypeScript","JavaScript" "Node.js", "Next.js", "PostgreSQL"],
+  stack: ["TypeScript","JavaScript", "Node.js", "Next.js", "PostgreSQL"],
   learning: ["Python", "Machine Learning"],
   goal: "Build real-world, scalable, cost-efficient software 🚀",
 };
