@@ -112,22 +112,22 @@ const mohit = {
 
 <div align="center">
 <a href="https://github.com/Mohit12389/Catering-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Catering-App&theme=tokyonight&hide_border=true" alt="Catering-App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Catering-App&theme=tokyonight&hide_border=true&v=2" alt="Catering-App" />
 </a>
 <a href="https://github.com/Mohit12389/PropelAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=PropelAI&theme=tokyonight&hide_border=true" alt="PropelAI" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=PropelAI&theme=tokyonight&hide_border=true&v=2" alt="PropelAI" />
 </a>
 <a href="https://github.com/Mohit12389/billbuddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=billbuddy&theme=tokyonight&hide_border=true" alt="billbuddy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=billbuddy&theme=tokyonight&hide_border=true&v=2" alt="billbuddy" />
 </a>
 <a href="https://github.com/Mohit12389/Fire-TV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Fire-TV&theme=tokyonight&hide_border=true" alt="Fire-TV" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Fire-TV&theme=tokyonight&hide_border=true&v=2" alt="Fire-TV" />
 </a>
 <a href="https://github.com/Mohit12389/Bill-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Bill-Management-System&theme=tokyonight&hide_border=true" alt="Bill-Management-System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Bill-Management-System&theme=tokyonight&hide_border=true&v=2" alt="Bill-Management-System" />
 </a>
 <a href="https://github.com/Mohit12389/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=portfolio&theme=tokyonight&hide_border=true&v=2" alt="Portfolio" />
 </a>
 
 </div>
