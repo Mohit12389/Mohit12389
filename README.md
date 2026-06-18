@@ -111,17 +111,9 @@ const mohit = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<!--
-  ⚠️  Catering-App is PRIVATE right now, so this pin card will NOT render
-      (it would show a broken "could not fetch" card). Once you make the
-      repo PUBLIC, delete this comment wrapper to switch the card on.
--->
-<!--
 <a href="https://github.com/Mohit12389/Catering-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Catering-App&theme=tokyonight&hide_border=true" alt="Catering-App" />
 </a>
--->
 <a href="https://github.com/Mohit12389/PropelAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=PropelAI&theme=tokyonight&hide_border=true" alt="PropelAI" />
 </a>
