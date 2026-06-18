@@ -1,5 +1,3 @@
-
-
 <!-- ========================= HEADER / BANNER ========================= -->
 <div align="center">
 
@@ -114,6 +112,16 @@ const mohit = {
 
 <div align="center">
 
+<!--
+  ⚠️  Catering-App is PRIVATE right now, so this pin card will NOT render
+      (it would show a broken "could not fetch" card). Once you make the
+      repo PUBLIC, delete this comment wrapper to switch the card on.
+-->
+<!--
+<a href="https://github.com/Mohit12389/Catering-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Catering-App&theme=tokyonight&hide_border=true" alt="Catering-App" />
+</a>
+-->
 <a href="https://github.com/Mohit12389/PropelAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=PropelAI&theme=tokyonight&hide_border=true" alt="PropelAI" />
 </a>
@@ -134,22 +142,21 @@ const mohit = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **[Catering-App](https://catering-app-nine.vercel.app)** · [🔗 live](https://catering-app-nine.vercel.app) 🔒 | Full catering management system — menu creation and billing module, with automated PostgreSQL backups via GitHub Actions CI | Next.js · TypeScript · Prisma · PostgreSQL · Tailwind |
 | **[PropelAI](https://github.com/Mohit12389/PropelAI)** · [🔗 live](https://propel-ai.vercel.app) | AI career-coach platform — weekly AI industry insights, resume & cover-letter builder with PDF export, and project-based interview quizzes | Next.js · Prisma · Neon · Clerk · Gemini · Inngest |
 | **[billbuddy](https://github.com/Mohit12389/billbuddy)** · [🔗 live](https://billbuddy-zeta.vercel.app) | Smart expense tracker with group bill-splitting, real-time sync, automated email reminders, monthly reports & AI spending insights | Next.js · Convex · Clerk · Inngest · Resend · Gemini |
 | **[Fire-TV](https://github.com/Mohit12389/Fire-TV)** | Fire TV clone with a **hybrid recommendation engine** (content-based + collaborative filtering via SVD) — Amazon HackOn 5.0 project | React · Vite · Python · Flask · scikit-learn · Firebase |
-| **[Bill-Management-System](https://github.com/Mohit12389/Bill-Management-System)** | MithaiBills — React Native (Expo) Android app for sweet shops: track bills, vendors & payments with pie/bar analytics | React Native · Expo · TypeScript · Express · Neon |
-| **[Portfolio](https://github.com/Mohit12389/portfolio)** | Personal developer portfolio website | Next.js · TypeScript · Tailwind |
+| **[Bill-Management-System](https://github.com/Mohit12389/Bill-Management-System)** · [🔗 live](https://bills-management-ruby.vercel.app) | MithaiBills — bill, vendor & payment tracker with pie/bar analytics | React Native · Expo · TypeScript · Express · Neon |
+| **[Portfolio](https://github.com/Mohit12389/portfolio)** · [🔗 live](https://portfolio-psi-henna-78.vercel.app) | Personal developer portfolio website | Next.js · TypeScript · Tailwind |
 
 <!-- ========================= CONNECT ========================= -->
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<!-- Replace the # links with your real profile URLs -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-panwar-5a84a5250)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-psi-henna-78.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panwarmohit724@gmail.com)
-
 
 </div>
 
