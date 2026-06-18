@@ -124,7 +124,7 @@ const mohit = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Fire-TV&theme=tokyonight&hide_border=true&v=2" alt="Fire-TV" />
 </a>
 <a href="https://github.com/Mohit12389/Bills-management-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Bill-Management&theme=tokyonight&hide_border=true&v=2" alt="Bill-Management" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=Bills-management-&theme=tokyonight&hide_border=true&v=2" alt="Bills-management-" />
 </a>
 <a href="https://github.com/Mohit12389/portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit12389&repo=portfolio&theme=tokyonight&hide_border=true&v=2" alt="Portfolio" />
@@ -138,7 +138,7 @@ const mohit = {
 | **[PropelAI](https://github.com/Mohit12389/PropelAI)** · [🔗 live](https://propel-ai.vercel.app) | AI career-coach platform — weekly AI industry insights, resume & cover-letter builder with PDF export, and project-based interview quizzes | Next.js · Prisma · Neon · Clerk · Gemini · Inngest |
 | **[billbuddy](https://github.com/Mohit12389/billbuddy)** · [🔗 live](https://billbuddy-zeta.vercel.app) | Smart expense tracker with group bill-splitting, real-time sync, automated email reminders, monthly reports & AI spending insights | Next.js · Convex · Clerk · Inngest · Resend · Gemini |
 | **[Fire-TV](https://github.com/Mohit12389/Fire-TV)** | Fire TV clone with a **hybrid recommendation engine** (content-based + collaborative filtering via SVD) — Amazon HackOn 5.0 project | React · Vite · Python · Flask · scikit-learn · Firebase |
-| **[Bill-Management](https://github.com/Mohit12389/Bills-management-)** · [🔗 live](https://bills-management-ruby.vercel.app) |  ⭐️ MithaiBills — bill, vendor & payment tracker with pie/bar analytics | React Native · Expo · TypeScript · Express · Neon |
+| **[Bill-Management](https://github.com/Mohit12389/Bills-management-)** · [🔗 live](https://bills-management-ruby.vercel.app) |  ⭐️ Bill Management and Tracking System — A bill, vendor, and payment tracking platform with pie and bar chart analytics showing outstanding payments owed to each vendor. Features include bill creation with photo uploads, vendor management, payment status tracking, and PDF/CSV export for expense summaries and financial reports. | React Native · Expo · TypeScript · Express · Neon |
 | **[Portfolio](https://github.com/Mohit12389/portfolio)** · [🔗 live](https://portfolio-psi-henna-78.vercel.app) | Personal developer portfolio website | Next.js · TypeScript · Tailwind |
 
 <!-- ========================= CONNECT ========================= -->
