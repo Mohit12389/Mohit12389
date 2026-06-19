@@ -85,7 +85,7 @@ const mohit = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohit12389&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohit12389&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit12389&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages (donut chart)" />
 
 <br>
